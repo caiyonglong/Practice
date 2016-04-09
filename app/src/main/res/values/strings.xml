@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practice</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">登录</string>
+    <string name="cancel">取消</string>
+    <string name="user">用户名</string>
+    <string name="mima">密 码</string>
+    <string name="wanji">忘记密码?</string>
+    <string name="weight">标准体重计算器</string>
+    <string name="dc">调查表</string>
+</resources>
