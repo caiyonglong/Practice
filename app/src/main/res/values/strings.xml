@@ -10,4 +10,8 @@
     <string name="wanji">忘记密码?</string>
     <string name="weight">标准体重计算器</string>
     <string name="dc">调查表</string>
+    <string name="newgame">新游戏</string>
+    <string name="bestscore">最好的分数</string>
+    <string name="score">分数</string>
+    <string name="appinfo">2048</string>
 </resources>
